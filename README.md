@@ -33,10 +33,11 @@ python app.py
 ## Screenshots
 
 - Main Screen
-![1](https://user-images.githubusercontent.com/72791227/158653874-2defbfe8-9fcf-432c-8db2-5a68a420b521.PNG)
+<img src="https://user-images.githubusercontent.com/72791227/158653874-2defbfe8-9fcf-432c-8db2-5a68a420b521.PNG" width="200" />
 
 - Detect the language
-![2](https://user-images.githubusercontent.com/72791227/158653957-7d13b678-1360-45b7-84a4-0a1fd77ed556.PNG)
+<img src="https://user-images.githubusercontent.com/72791227/158653957-7d13b678-1360-45b7-84a4-0a1fd77ed556.PNG" width="200" />
 
 - Translate in any language
-![3](https://user-images.githubusercontent.com/72791227/158654047-efb5e0c2-d49b-482f-beca-bfaf7d4707e2.PNG)
+<img src="https://user-images.githubusercontent.com/72791227/158654047-efb5e0c2-d49b-482f-beca-bfaf7d4707e2.PNG" width="200" />
+
